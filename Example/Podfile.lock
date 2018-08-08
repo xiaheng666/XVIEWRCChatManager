@@ -1,0 +1,16 @@
+PODS:
+  - XVIEWChatManager (0.1.0)
+
+DEPENDENCIES:
+  - XVIEWChatManager (from `../`)
+
+EXTERNAL SOURCES:
+  XVIEWChatManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XVIEWChatManager: fe3817262d2eb56cdc1431968e0946da9f54d02d
+
+PODFILE CHECKSUM: 8cf4cd749a9a2d81eea6bc6480c083cf5b19b436
+
+COCOAPODS: 1.5.3

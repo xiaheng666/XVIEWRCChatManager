@@ -1,0 +1,6 @@
+framework module XVIEWChatManager {
+  umbrella header "XVIEWChatManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

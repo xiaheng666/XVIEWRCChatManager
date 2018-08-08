@@ -1,0 +1,27 @@
+{
+  "name": "XVIEWChatManager",
+  "version": "0.1.2",
+  "summary": "聊天，仅支持融云IM以及音视频",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaheng666/XVIEWChatManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaheng666": "key@xiaheng.net"
+  },
+  "source": {
+    "git": "git@github.com:xiaheng666/XVIEWChatManager.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XVIEWChatManager/Classes/**/*",
+  "dependencies": {
+    "RongCloudIM": [
+      "2.9.0"
+    ]
+  }
+}
