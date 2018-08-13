@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XVIEWChatManager'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = '聊天，仅支持融云IM以及音视频'
 
 # This description is used to generate tags and improve search results.
